@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tempSensor</string>
+    <string name="temperatureDesc">The current temperature of the room is</string>
+</resources>
